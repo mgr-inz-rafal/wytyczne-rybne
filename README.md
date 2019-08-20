@@ -1,5 +1,5 @@
 # Wytyczne Rybne
-This is an Atari 8-bit game for the competition at the Wapniak 2016 party in Warsaw.
+This is an Atari 8-bit game written for the competition at the Wapniak 2016 party in Warsaw.
 
 # How to build?
 You need the MADS assembler. Get it here: http://mads.atari8.info/
